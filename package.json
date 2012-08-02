@@ -11,7 +11,8 @@
     "node": "~0.6.10"
   },
   "dependencies": {
-    "sitequery": "~0.2.8"
+    "sitequery": "~0.2.8",
+    "sqlite3": "~2.1.5"
   },
   "devDependencies": {},
   "optionalDependencies": {}
